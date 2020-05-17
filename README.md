@@ -25,3 +25,14 @@
 * title.pincipals.tsv
 * title.ratings.tsv<br/>
 Οι οποίοι βρίσκονται στα δεδομένα της βάσης.
+
+## Output File
+
+Παράδειγμα για είσοδο "scan" - "scan".
+Αρχεία:
+* name.basics.tsv
+* title.akas.tsv
+Πεδία:
+* 2 2
+* 2 1
+![Alt Text](/output/result.png)
