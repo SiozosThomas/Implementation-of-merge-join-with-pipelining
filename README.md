@@ -32,7 +32,8 @@
 Αρχεία:
 * name.basics.tsv
 * title.akas.tsv
-<br/>Πεδία:
+<br/>
+Πεδία:
 * 2 2
 * 2 1<br/>
 ![Alt Text](/output/result.png)
