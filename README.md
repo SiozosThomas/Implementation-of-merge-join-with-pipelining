@@ -28,11 +28,11 @@
 
 ## Output File
 
-Παράδειγμα για είσοδο "scan" - "scan".
+Παράδειγμα για είσοδο "scan" - "scan".<br/>
 Αρχεία:
 * name.basics.tsv
 * title.akas.tsv
-Πεδία:
+<br/>Πεδία:
 * 2 2
-* 2 1
+* 2 1<br/>
 ![Alt Text](/output/result.png)
