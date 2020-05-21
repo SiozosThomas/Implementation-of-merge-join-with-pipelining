@@ -37,3 +37,6 @@
 * 2 2
 * 2 1<br/>
 ![Alt Text](/output/result.png)
+
+## Copyright
+[MIT](https://github.com/SiozosThomas/Implementation-of-merge-join-with-pipelining/blob/master/LICENSE) © 2020 Thomas Siozos
